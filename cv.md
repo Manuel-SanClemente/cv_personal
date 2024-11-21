@@ -27,6 +27,5 @@ Lenguas de desarrollo conocidas:
 Permiso de conducir?
 >Si
 
-Enlace a código de ejemplo
-
-![example_code](code.jpg)<muestra.md>
+[Enlace a código de ejemplo](muestra.md)
+![example_code](code.jpg)
