@@ -28,4 +28,5 @@ Permiso de conducir?
 >Si
 
 [Enlace a código de ejemplo](muestra.md)
+
 ![example_code](code.jpg)
